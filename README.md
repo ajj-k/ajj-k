@@ -2,7 +2,8 @@
 
 <p align="left">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ajj-k&show_icons=true&count_private=true&theme=jolly " />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajj-k&count_private=true&theme=jolly&layout=compact" />
+  <!-- <img height="150px" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajj-k&count_private=true&theme=jolly&layout=compact" />
+-->
 </p>　
 🐈💨
 <p align="left">
