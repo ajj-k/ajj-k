@@ -1,14 +1,12 @@
 ### Welcome👐
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=ajj-k&show_icons=true&count_private=true&theme=jolly " />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" height="160px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajj-k&count_private=true&theme=jolly" />
-</a>　
-
-  🐈💨
-___
+<p>
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=ajj-k&show_icons=true&count_private=true&theme=jolly " />
+</p>
+<p>
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajj-k&count_private=true&theme=jolly" />
+</p>　
+🐈💨
 <p>
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=ajj-k&theme=onedark">
 </p>
