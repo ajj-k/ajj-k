@@ -1,4 +1,5 @@
 ### Welcome👐
+最近はTypeScriptを触ってます。バックエンドやロジック組むのが好きです。
 
 <p align="left">
   <p>
